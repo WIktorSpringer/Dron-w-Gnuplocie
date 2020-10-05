@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1560333840 source:/home/dell/Pulpit/Dronzp/Dron.cpp
+	"Dron.hh"
+
+1559862671 /home/dell/Pulpit/Dronzp/Dron.hh
+	<iostream>
+	<fstream>
+	<iomanip>
+	<memory>
+	<cmath>
+	<unistd.h>
+	"lacze_do_gnuplota.hh"
+	"Prostopadloscian.hh"
+	"Graniastoslup.hh"
+	"Macierz3x3.hh"
+	"ObiektSceny.hh"
+
+1555261763 /home/dell/Pulpit/Dronzp/lacze_do_gnuplota.hh
+	<string>
+	<list>
+	<vector>
+
+1559862688 /home/dell/Pulpit/Dronzp/Prostopadloscian.hh
+	<iostream>
+	"Wektor3D.hh"
+	"Figura.hh"
+
+1558558439 /home/dell/Pulpit/Dronzp/Wektor3D.hh
+	"Wektor.hh"
+
+1558614242 /home/dell/Pulpit/Dronzp/Wektor.hh
+	<iomanip>
+	<iostream>
+	<math.h>
+
+1559862664 /home/dell/Pulpit/Dronzp/Figura.hh
+	<vector>
+	<iostream>
+	"Wektor3D.hh"
+
+1558602487 /home/dell/Pulpit/Dronzp/Graniastoslup.hh
+	<vector>
+	<iostream>
+	"Figura.hh"
+
+1557603917 /home/dell/Pulpit/Dronzp/Macierz3x3.hh
+	<iostream>
+	"Macierz.hh"
+
+1558602512 /home/dell/Pulpit/Dronzp/Macierz.hh
+	<iostream>
+	"Wektor.hh"
+	<math.h>
+
+1559862692 source:/home/dell/Pulpit/Dronzp/Figura.cpp
+	"Figura.hh"
+
+1558558377 source:/home/dell/Pulpit/Dronzp/Graniastoslup.cpp
+	"Graniastoslup.hh"
+
+1555261763 source:/home/dell/Pulpit/Dronzp/lacze_do_gnuplota.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<sys/stat.h>
+	<unistd.h>
+	<fcntl.h>
+	<sstream>
+	<fstream>
+	<limits>
+	"lacze_do_gnuplota.hh"
+
+1558602574 source:/home/dell/Pulpit/Dronzp/Macierz3x3.cpp
+	"Macierz3x3.hh"
+
+1559862708 source:/home/dell/Pulpit/Dronzp/Prostopadloscian.cpp
+	"Prostopadloscian.hh"
+
+1558612862 source:/home/dell/Pulpit/Dronzp/Wektor3D.cpp
+	"Wektor3D.hh"
+
+1559131780 source:/home/dell/Pulpit/Dronzp/main.cpp
+	"Scena.hh"
+
+1559863076 /home/dell/Pulpit/Dronzp/Scena.hh
+	"Dron.hh"
+	"Wektor3D.hh"
+	"Przeszkoda.hh"
+	<vector>
+	<memory>
+
+1559862697 /home/dell/Pulpit/Dronzp/ObiektSceny.hh
+	"Dron.hh"
+
+1560379766 /home/dell/Pulpit/Dronzp/Przeszkoda.hh
+	"ObiektSceny.hh"
+	"Figura.hh"
+	"lacze_do_gnuplota.hh"
+
+1560333840 source:/home/wiktor/Pulpit/Programy/Dron/Dronzp/Dron.cpp
+	"Dron.hh"
+
+1559862671 /home/wiktor/Pulpit/Programy/Dron/Dronzp/Dron.hh
+	<iostream>
+	<fstream>
+	<iomanip>
+	<memory>
+	<cmath>
+	<unistd.h>
+	"lacze_do_gnuplota.hh"
+	"Prostopadloscian.hh"
+	"Graniastoslup.hh"
+	"Macierz3x3.hh"
+	"ObiektSceny.hh"
+
+1555261763 /home/wiktor/Pulpit/Programy/Dron/Dronzp/lacze_do_gnuplota.hh
+	<string>
+	<list>
+	<vector>
+
+1559862688 /home/wiktor/Pulpit/Programy/Dron/Dronzp/Prostopadloscian.hh
+	<iostream>
+	"Wektor3D.hh"
+	"Figura.hh"
+
+1558558439 /home/wiktor/Pulpit/Programy/Dron/Dronzp/Wektor3D.hh
+	"Wektor.hh"
+
+1558614242 /home/wiktor/Pulpit/Programy/Dron/Dronzp/Wektor.hh
+	<iomanip>
+	<iostream>
+	<math.h>
+
+1559862664 /home/wiktor/Pulpit/Programy/Dron/Dronzp/Figura.hh
+	<vector>
+	<iostream>
+	"Wektor3D.hh"
+
+1558602487 /home/wiktor/Pulpit/Programy/Dron/Dronzp/Graniastoslup.hh
+	<vector>
+	<iostream>
+	"Figura.hh"
+
+1557603917 /home/wiktor/Pulpit/Programy/Dron/Dronzp/Macierz3x3.hh
+	<iostream>
+	"Macierz.hh"
+
+1558602512 /home/wiktor/Pulpit/Programy/Dron/Dronzp/Macierz.hh
+	<iostream>
+	"Wektor.hh"
+	<math.h>
+
+1559862697 /home/wiktor/Pulpit/Programy/Dron/Dronzp/ObiektSceny.hh
+	"Dron.hh"
+
+1559862692 source:/home/wiktor/Pulpit/Programy/Dron/Dronzp/Figura.cpp
+	"Figura.hh"
+
+1558558377 source:/home/wiktor/Pulpit/Programy/Dron/Dronzp/Graniastoslup.cpp
+	"Graniastoslup.hh"
+
+1555261763 source:/home/wiktor/Pulpit/Programy/Dron/Dronzp/lacze_do_gnuplota.cpp
+	<cstdio>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<sys/stat.h>
+	<unistd.h>
+	<fcntl.h>
+	<sstream>
+	<fstream>
+	<limits>
+	"lacze_do_gnuplota.hh"
+
+1558602574 source:/home/wiktor/Pulpit/Programy/Dron/Dronzp/Macierz3x3.cpp
+	"Macierz3x3.hh"
+
+1559131780 source:/home/wiktor/Pulpit/Programy/Dron/Dronzp/main.cpp
+	"Scena.hh"
+
+1559863076 /home/wiktor/Pulpit/Programy/Dron/Dronzp/Scena.hh
+	"Dron.hh"
+	"Wektor3D.hh"
+	"Przeszkoda.hh"
+	<vector>
+	<memory>
+
+1560379766 /home/wiktor/Pulpit/Programy/Dron/Dronzp/Przeszkoda.hh
+	"ObiektSceny.hh"
+	"Figura.hh"
+	"lacze_do_gnuplota.hh"
+
+1559862708 source:/home/wiktor/Pulpit/Programy/Dron/Dronzp/Prostopadloscian.cpp
+	"Prostopadloscian.hh"
+
+1558612862 source:/home/wiktor/Pulpit/Programy/Dron/Dronzp/Wektor3D.cpp
+	"Wektor3D.hh"
+

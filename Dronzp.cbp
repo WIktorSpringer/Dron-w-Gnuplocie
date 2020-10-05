@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Dronzp" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Dronzp" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Dronzp" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Dron.cpp" />
+		<Unit filename="Dron.hh" />
+		<Unit filename="Figura.cpp" />
+		<Unit filename="Figura.hh" />
+		<Unit filename="Graniastoslup.cpp" />
+		<Unit filename="Graniastoslup.hh" />
+		<Unit filename="Macierz.hh" />
+		<Unit filename="Macierz3x3.cpp" />
+		<Unit filename="Macierz3x3.hh" />
+		<Unit filename="ObiektSceny.hh" />
+		<Unit filename="Prostopadloscian.cpp" />
+		<Unit filename="Prostopadloscian.hh" />
+		<Unit filename="Przeszkoda.hh" />
+		<Unit filename="Scena.hh" />
+		<Unit filename="Wektor.hh" />
+		<Unit filename="Wektor3D.cpp" />
+		<Unit filename="Wektor3D.hh" />
+		<Unit filename="lacze_do_gnuplota.cpp" />
+		<Unit filename="lacze_do_gnuplota.hh" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
